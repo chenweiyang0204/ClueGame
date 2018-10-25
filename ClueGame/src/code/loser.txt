@@ -1,0 +1,18 @@
+loser.txt
+
+-The correct answer is in the envelope on the command panel on the side. You will see
+a JLabel named "Envelope" under that there are three cards. Those three cards are the answer
+for the accusation. Choosing the cards and after clicking confirmed, it will wither tell you 
+"You Lose" or "You Win". 
+
+-By clicking start button, the first player should be Miss Scarlet, she can click the 
+accusation button to make an accusation. Choose three cards that does not match the cards
+that does not match the envelope, there would be a new window that says "You Lose", 
+and a few second later, the windows will automatically close itself. You would not be able
+to do anything other than end your turn.
+
+-After going through all the players, the loser player will not able to roll the dice to begin
+their move. They can only end turn and go to the next palyer's turn.
+
+-Loser player does not remove from the player list. They are in there however they cannot move.
+Therefore when other player make a suggestion, it still take in the loser palyer's hand.

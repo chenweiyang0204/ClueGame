@@ -1,0 +1,15 @@
+makeAccusation.txt
+
+1.When you run the program, the GUI will appear, and you need to press the "Start" JButton which
+  is in the right side of GUI and it means the start the first players' turn, and you can see a
+  "Make Accusation" JButton in the bottom of right side, you can press it to make accusation.
+  
+2. After you press "Make Accusation" JButton, a window about Accusation content will appear.
+
+3. In the window, there are some JButtons refer to the cards, by pressing the JButton means you 
+   choose your accusation.
+   
+4. You can only choose from the JButton.
+
+5. After press the "Make Accusation" JButton, that window is where the player make their own 
+   accusation, Press "confirm" JButton will take in the card you choose.

@@ -1,0 +1,11 @@
+winner.txt
+
+-The correct answer is in the envelope on the command panel on the side. You will see
+a JLabel named "Envelope" under that there are three cards. Those three cards are the answer
+for the accusation. Choosing the cards and after clicking confirmed, it will wither tell you 
+"You Lose" or "You Win". 
+
+-By clicking start button, the first player should be Miss Scarlet, she can click the 
+accusation button to make an accusation. After choosing the three cards that matches the
+envelope, there will be a new window saying "You Win". This means game is over.
+
